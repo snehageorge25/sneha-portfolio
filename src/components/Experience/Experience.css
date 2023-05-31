@@ -22,6 +22,7 @@
     text-align: center;
     margin-bottom: 2rem;
     color: var(--color-primary);
+    text-shadow: 2px 2px 8px black;
 }
 
 .experience__content {
@@ -38,6 +39,7 @@
 .experience__details-icon {
     margin-top: 6px;
     color: var(--color-primary);
+    text-shadow: 2px 2px 8px black;
 }
 
 @media screen and (max-width: 1024px){
